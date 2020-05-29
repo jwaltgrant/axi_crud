@@ -16,7 +16,6 @@
     "webpack-cli": "^3.3.11"
   },
   "devDependencies": {
-    "@babel/preset-typescript": "^7.10.1",
     "ts-loader": "^7.0.5",
     "typescript": "^3.9.3"
   }
