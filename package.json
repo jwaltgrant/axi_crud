@@ -1,0 +1,8 @@
+{
+  "name": "axi_crud",
+  "version": "0.1.0",
+  "description": "Lightweight wrapper for axios, provide common crud operations",
+  "main": "index.js",
+  "author": "Josh Grant <jwaltgrant@gmail.com>",
+  "license": "MIT"
+}
