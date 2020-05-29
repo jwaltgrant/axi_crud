@@ -2,7 +2,10 @@
   "name": "axi_crud",
   "version": "0.1.0",
   "description": "Lightweight wrapper for axios, provide common crud operations",
-  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
   "author": "Josh Grant <jwaltgrant@gmail.com>",
   "license": "MIT",
   "dependencies": {
