@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "description": "Lightweight wrapper for axios, provide common crud operations",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
+    "test": "jest",
     "build": "webpack"
   },
   "author": "Josh Grant <jwaltgrant@gmail.com>",
@@ -17,7 +17,10 @@
     "webpack-cli": "^3.3.11"
   },
   "devDependencies": {
+    "@types/jest": "^25.2.3",
+    "jest": "^26.0.1",
     "prettier": "^2.0.5",
+    "ts-jest": "^26.0.0",
     "ts-loader": "^7.0.5",
     "typescript": "^3.9.3"
   }
